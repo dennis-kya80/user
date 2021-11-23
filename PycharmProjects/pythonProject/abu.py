@@ -1,0 +1,13 @@
+x=2
+y=("john")
+print(y)
+print(x)
+num1=21
+num2=21
+print(num1+num2)
+a=4
+b=7
+c=3
+d=a+b
+f=d+c
+print(f)

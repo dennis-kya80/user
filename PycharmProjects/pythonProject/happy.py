@@ -1,0 +1,8 @@
+name=("dennis")
+print(name)
+university=("taitauniversity")
+name=("dennis")
+course=("mcs")
+print("universitynamecourse")
+uni=("ttu")
+print(uni)
